@@ -2,9 +2,9 @@
 
 ## News
 
-📄 Paper Submitted to NeurIPS 2024. Anonymous URL for review.
+📄 Paper accepted by NeurIPS 2024.
 
-🔥 Code will be available if accepted.
+🔥 Code will be available soon.
 
 ---
 
